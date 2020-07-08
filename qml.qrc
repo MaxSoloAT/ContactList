@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ContactItem.qml</file>
+        <file>ContactList.qml</file>
+        <file>Call.qml</file>
+    </qresource>
+</RCC>
